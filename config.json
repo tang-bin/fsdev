@@ -1,0 +1,17 @@
+{
+    "workspace_root": "~/Workspace/FSM",
+    "js_output_dir": "fortisiem-h5ui-dist",
+    "ts_output_dir": "fs-dist",
+    "full_output_dir": "fs-ui-full-dist",
+    "server_www_root": "/opt/glassfish/domains/domain1/applications/phoenix/phoenix-web-1.0_war/",
+    "remote_url": "dops-gerrit.fortinet-us.com:29418/FSIEM",
+    "user_name": "admin",
+    "default_passwd": "Fortinet*11",
+    "auto_stash": true,
+    "proxy_port": 4000,
+    "middleware_port": 3000,
+    "cert_file": "cert.pem",
+    "key_file": "key.pem",
+    "h5_path": "phoenix/src/java/phoenix-h5ui",
+    "default_debug_server": "172.30.58.21"
+}
